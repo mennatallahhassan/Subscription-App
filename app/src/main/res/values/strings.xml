@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Subscription App</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="subscribe_me">subscribe Me</string>
+    <string name="body">Dear REPLACE_0 REPLACE_1   \n\nThank you for subscribing to keep in touch with us.   \n\nAn email has been sent to REPLACE_2 for confirming your email address. You’ve been added to our mailing list and now will be among the first to hear about our new arrivals, and special offers.   \n\n\nCheers, \nAddidas Team</string>
+</resources>
