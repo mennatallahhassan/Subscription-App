@@ -12,3 +12,5 @@
 Focused on:
 - Explicit Intent
 - Linear Layout
+- Button
+- Radio buttons & Radio Group
