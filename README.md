@@ -10,7 +10,7 @@
 ![](screenshots/Picture2.png)
 
 Focused on:
-- Explicit Intent
+- Passing data via Explicit Intent
 - Linear Layout
 - Button
 - Radio buttons & Radio Group
